@@ -1,0 +1,71 @@
+dimension,valor,etiqueta
+calificacion,1,Profesionales
+calificacion,2,Técnicos
+calificacion,3,Operativos
+calificacion,4,No calificados
+tecnologia,1,Sin operación de máquina
+tecnologia,2,Operación de maquinaria y equipos electromecánicos
+tecnologia,3,Operación de sistemas y equipos informatizados
+jerarquia,0,Dirección
+jerarquia,1,Cuenta propia
+jerarquia,2,Jefes
+jerarquia,3,Trabajadores asalariados
+caracter,00,"Funcionarios del poder ejecutivo nacional, provincial, municipal y/o departamental"
+caracter,01,"Funcionarios del poder legislativo nacional, provincial, municipal y/o departamental"
+caracter,02,"Funcionarios del poder judicial, federal, nacional, provincial, municipal y/o departamental"
+caracter,03,"Directivos de organismos, empresas e instituciones estatales"
+caracter,04,Directivos de instituciones sociales
+caracter,05,Directivos de pequeñas y microempresas
+caracter,06,Directivos de medianas empresas privadas productoras de bienes y servicios
+caracter,07,Directivos de grandes empresas privadas productoras de bienes y servicios
+caracter,10,"Ocupaciones de la gestión administrativa, planificación y control de gestión"
+caracter,11,Ocupaciones de la gestión jurídico-legal
+caracter,20,"Ocupaciones de la gestión presupuestaria, contable y financiera"
+caracter,30,Ocupaciones de la comercialización directa
+caracter,31,"Ocupaciones del corretaje comercial, venta domiciliaria, viajantes y promotores"
+caracter,32,Ocupaciones de la comercialización indirecta
+caracter,33,Ocupaciones de la comercialización ambulante y callejera
+caracter,34,Ocupaciones del transporte
+caracter,35,Ocupaciones de las telecomunicaciones
+caracter,36,"Ocupaciones del almacenaje de insumos, materias primas, mercaderías e instrumentos"
+caracter,40,Ocupaciones de la salud y sanidad
+caracter,41,Ocupaciones de la educación
+caracter,42,Ocupaciones de la investigación
+caracter,43,Ocupaciones de la asesoria y la consultaría
+caracter,44,"Ocupaciones de la prevención de siniestros (naturales, humanos, productivos) atención del medio ambiente y ecología"
+caracter,45,Ocupaciones de la comunicación de masas
+caracter,46,"Ocupaciones de los servicios sociales, comunales, políticos, gremiales y religiosos"
+caracter,47,Ocupaciones de los servicios de vigilancia y seguridad civil
+caracter,48,Ocupaciones de servicios policiales
+caracter,49,Ocupaciones de las FFAA Gendarmería y Prefectura
+caracter,50,Ocupaciones del arte
+caracter,51,Ocupaciones del deporte
+caracter,52,Ocupaciones de servicios de recreación
+caracter,53,Ocupaciones de servicios gastronómicos
+caracter,54,Ocupaciones de los servicios de alojamiento y turismo
+caracter,55,Ocupaciones de los servicios domésticos
+caracter,56,Ocupaciones de servicios de limpieza no domésticos
+caracter,57,Ocupaciones del cuidado y la atención de personas
+caracter,58,Ocupaciones de los servicios sociales varios
+caracter,60,Ocupaciones de la producción agrícola
+caracter,61,Ocupaciones de la producción ganadera
+caracter,62,Ocupaciones de la producción forestal
+caracter,63,"Ocupaciones de la producción apícola, avícolas y de otras especies menores"
+caracter,64,Ocupaciones de la producción pesquera
+caracter,65,Ocupaciones de la caza
+caracter,70,Ocupaciones de la producción extractiva
+caracter,71,"Ocupaciones de la producción de energía, agua y gas"
+caracter,72,"Ocupaciones de la construcción edilicia, de obras de infraestructura y de redes de distribución de energía, agua potable, gas, telefonía y petróleo"
+caracter,80,Ocupaciones de la producción industrial y artesanal
+caracter,81,Ocupaciones de la producción de software
+caracter,82,Ocupaciones de la reparación de bienes de consumo
+caracter,90,"Ocupaciones de la instalación y mantenimiento de maquinaria, equipos y sistemas de la producción de bienes"
+caracter,91,Ocupaciones del desarrollo tecnológico productivo
+caracter,92,"Ocupaciones de la instalación y mantenimiento de maquinaria, equipos y sistemas"
+caracter,99,Ns/Nc
+jerarquia,9,Ns/Nc
+tecnologia,9,Ns/Nc
+calificacion,6,Mal codificado
+calificacion,7,Falta información
+calificacion,8,Otro
+calificacion,9,Ns/Nc

@@ -1,0 +1,226 @@
+codigo,rama_eph,seccion_caes
+01,Actividades primarias,A
+0101,Actividades primarias,A
+0102,Actividades primarias,A
+0103,Actividades primarias,A
+0104,Actividades primarias,A
+0105,Actividades primarias,A
+02,Actividades primarias,A
+0200,Actividades primarias,A
+03,Actividades primarias,A
+0300,Actividades primarias,A
+05,Actividades primarias,B
+0500,Actividades primarias,B
+06,Actividades primarias,B
+0600,Actividades primarias,B
+07,Actividades primarias,B
+0700,Actividades primarias,B
+08,Actividades primarias,B
+0800,Actividades primarias,B
+09,Actividades primarias,B
+0900,Actividades primarias,B
+10,Industria manufacturera,C
+1001,Industria manufacturera,C
+1002,Industria manufacturera,C
+1003,Industria manufacturera,C
+1009,Industria manufacturera,C
+11,Industria manufacturera,C
+1100,Industria manufacturera,C
+12,Industria manufacturera,C
+1200,Industria manufacturera,C
+13,Industria manufacturera,C
+1300,Industria manufacturera,C
+14,Industria manufacturera,C
+1400,Industria manufacturera,C
+15,Industria manufacturera,C
+1501,Industria manufacturera,C
+1502,Industria manufacturera,C
+16,Industria manufacturera,C
+1600,Industria manufacturera,C
+17,Industria manufacturera,C
+1700,Industria manufacturera,C
+18,Industria manufacturera,C
+1800,Industria manufacturera,C
+19,Industria manufacturera,C
+1901,Industria manufacturera,C
+1902,Industria manufacturera,C
+20,Industria manufacturera,C
+2001,Industria manufacturera,C
+2002,Industria manufacturera,C
+2009,Industria manufacturera,C
+21,Industria manufacturera,C
+2100,Industria manufacturera,C
+22,Industria manufacturera,C
+2201,Industria manufacturera,C
+2202,Industria manufacturera,C
+23,Industria manufacturera,C
+2301,Industria manufacturera,C
+2309,Industria manufacturera,C
+24,Industria manufacturera,C
+2400,Industria manufacturera,C
+25,Industria manufacturera,C
+2500,Industria manufacturera,C
+26,Industria manufacturera,C
+2601,Industria manufacturera,C
+2602,Industria manufacturera,C
+2603,Industria manufacturera,C
+2604,Industria manufacturera,C
+27,Industria manufacturera,C
+2701,Industria manufacturera,C
+2709,Industria manufacturera,C
+28,Industria manufacturera,C
+2800,Industria manufacturera,C
+29,Industria manufacturera,C
+2900,Industria manufacturera,C
+30,Industria manufacturera,C
+3001,Industria manufacturera,C
+3002,Industria manufacturera,C
+3003,Industria manufacturera,C
+3009,Industria manufacturera,C
+31,Industria manufacturera,C
+3100,Industria manufacturera,C
+32,Industria manufacturera,C
+3200,Industria manufacturera,C
+33,Industria manufacturera,C
+3300,Industria manufacturera,C
+35,Actividades no bien especificadas,D
+3501,Actividades no bien especificadas,D
+3502,Actividades no bien especificadas,D
+36,Otras ramas,E
+3600,Otras ramas,E
+37,Otras ramas,E
+3700,Otras ramas,E
+38,Otras ramas,E
+3800,Otras ramas,E
+39,Otras ramas,E
+3900,Otras ramas,E
+40,Construcción,F
+4000,Construcción,F
+45,Comercio,G
+4501,Comercio,G
+4502,Comercio,G
+4503,Comercio,G
+4504,Comercio,G
+48,Comercio,G
+4801,Comercio,G
+4802,Comercio,G
+4803,Comercio,G
+4804,Comercio,G
+4805,Comercio,G
+4806,Comercio,G
+4807,Comercio,G
+4808,Comercio,G
+4809,Comercio,G
+4810,Comercio,G
+4811,Comercio,G
+49,"Transporte, almacenamiento y comunicaciones",H
+4901,"Transporte, almacenamiento y comunicaciones",H
+4902,"Transporte, almacenamiento y comunicaciones",H
+4903,"Transporte, almacenamiento y comunicaciones",H
+4904,"Transporte, almacenamiento y comunicaciones",H
+4905,"Transporte, almacenamiento y comunicaciones",H
+4909,"Transporte, almacenamiento y comunicaciones",H
+50,"Transporte, almacenamiento y comunicaciones",H
+5000,"Transporte, almacenamiento y comunicaciones",H
+51,"Transporte, almacenamiento y comunicaciones",H
+5100,"Transporte, almacenamiento y comunicaciones",H
+52,"Transporte, almacenamiento y comunicaciones",H
+5201,"Transporte, almacenamiento y comunicaciones",H
+5202,"Transporte, almacenamiento y comunicaciones",H
+53,"Transporte, almacenamiento y comunicaciones",H
+5300,"Transporte, almacenamiento y comunicaciones",H
+55,Hoteles y restaurantes,I
+5500,Hoteles y restaurantes,I
+56,Hoteles y restaurantes,I
+5601,Hoteles y restaurantes,I
+5602,Hoteles y restaurantes,I
+58,"Transporte, almacenamiento y comunicaciones",J
+5800,"Transporte, almacenamiento y comunicaciones",J
+59,"Transporte, almacenamiento y comunicaciones",J
+5900,"Transporte, almacenamiento y comunicaciones",J
+60,"Transporte, almacenamiento y comunicaciones",J
+6000,"Transporte, almacenamiento y comunicaciones",J
+61,"Transporte, almacenamiento y comunicaciones",J
+6100,"Transporte, almacenamiento y comunicaciones",J
+62,"Transporte, almacenamiento y comunicaciones",J
+6200,"Transporte, almacenamiento y comunicaciones",J
+63,"Transporte, almacenamiento y comunicaciones",J
+6300,"Transporte, almacenamiento y comunicaciones",J
+64,"Servicios financieros, de alquiler y empresariales",K
+6400,"Servicios financieros, de alquiler y empresariales",K
+65,"Servicios financieros, de alquiler y empresariales",K
+6500,"Servicios financieros, de alquiler y empresariales",K
+66,"Servicios financieros, de alquiler y empresariales",K
+6600,"Servicios financieros, de alquiler y empresariales",K
+68,"Servicios financieros, de alquiler y empresariales",L
+6800,"Servicios financieros, de alquiler y empresariales",L
+69,"Servicios financieros, de alquiler y empresariales",M
+6900,"Servicios financieros, de alquiler y empresariales",M
+70,"Servicios financieros, de alquiler y empresariales",M
+7000,"Servicios financieros, de alquiler y empresariales",M
+71,"Servicios financieros, de alquiler y empresariales",M
+7100,"Servicios financieros, de alquiler y empresariales",M
+72,"Servicios financieros, de alquiler y empresariales",M
+7200,"Servicios financieros, de alquiler y empresariales",M
+73,"Servicios financieros, de alquiler y empresariales",M
+7301,"Servicios financieros, de alquiler y empresariales",M
+7302,"Servicios financieros, de alquiler y empresariales",M
+74,"Servicios financieros, de alquiler y empresariales",M
+7400,"Servicios financieros, de alquiler y empresariales",M
+75,"Servicios financieros, de alquiler y empresariales",M
+7500,"Servicios financieros, de alquiler y empresariales",M
+77,"Servicios financieros, de alquiler y empresariales",N
+7701,"Servicios financieros, de alquiler y empresariales",N
+7702,"Servicios financieros, de alquiler y empresariales",N
+78,"Servicios financieros, de alquiler y empresariales",N
+7800,"Servicios financieros, de alquiler y empresariales",N
+79,"Servicios financieros, de alquiler y empresariales",N
+7900,"Servicios financieros, de alquiler y empresariales",N
+80,"Servicios financieros, de alquiler y empresariales",N
+8000,"Servicios financieros, de alquiler y empresariales",N
+81,"Servicios financieros, de alquiler y empresariales",N
+8101,"Servicios financieros, de alquiler y empresariales",N
+8102,"Servicios financieros, de alquiler y empresariales",N
+82,"Servicios financieros, de alquiler y empresariales",N
+8200,"Servicios financieros, de alquiler y empresariales",N
+84,"Administración pública, defensa y seguridad social",O
+8401,"Administración pública, defensa y seguridad social",O
+8402,"Administración pública, defensa y seguridad social",O
+85,Enseñanza,P
+8501,Enseñanza,P
+8509,Enseñanza,P
+86,Servicios sociales y de salud,Q
+8600,Servicios sociales y de salud,Q
+87,Servicios sociales y de salud,Q
+8700,Servicios sociales y de salud,Q
+88,Servicios sociales y de salud,Q
+8800,Servicios sociales y de salud,Q
+90,"Otros servicios comunitarios, sociales y personales",R
+9000,"Otros servicios comunitarios, sociales y personales",R
+91,"Otros servicios comunitarios, sociales y personales",R
+9100,"Otros servicios comunitarios, sociales y personales",R
+92,"Otros servicios comunitarios, sociales y personales",R
+9200,"Otros servicios comunitarios, sociales y personales",R
+93,"Otros servicios comunitarios, sociales y personales",R
+9301,"Otros servicios comunitarios, sociales y personales",R
+9302,"Otros servicios comunitarios, sociales y personales",R
+94,"Otros servicios comunitarios, sociales y personales",S
+9401,"Otros servicios comunitarios, sociales y personales",S
+9402,"Otros servicios comunitarios, sociales y personales",S
+9409,"Otros servicios comunitarios, sociales y personales",S
+95,"Otros servicios comunitarios, sociales y personales",S
+9501,"Otros servicios comunitarios, sociales y personales",S
+9502,"Otros servicios comunitarios, sociales y personales",S
+9503,"Otros servicios comunitarios, sociales y personales",S
+96,"Otros servicios comunitarios, sociales y personales",S
+9601,"Otros servicios comunitarios, sociales y personales",S
+9602,"Otros servicios comunitarios, sociales y personales",S
+9603,"Otros servicios comunitarios, sociales y personales",S
+9609,"Otros servicios comunitarios, sociales y personales",S
+97,Servicio doméstico,T
+9700,Servicio doméstico,T
+98,Servicio doméstico,T
+9800,Servicio doméstico,T
+99,Otras ramas,U
+9900,Otras ramas,U
+9999,Actividades no bien especificadas,Z
